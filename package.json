@@ -1,6 +1,6 @@
 {
   "name": "exit-strategy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "handle uncaught exceptions with node's domains",
   "main": "index.js",
   "scripts": {

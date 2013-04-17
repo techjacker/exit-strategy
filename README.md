@@ -2,8 +2,8 @@
 
 [![Build Status](https://secure.travis-ci.org/techjacker/exit-strategy.png)](http://travis-ci.org/techjacker/exit-strategy)
 
-- Error event handlers to kill your app.
-- Designed to be used with domains.
+- Generates error event handlers to gracefully kill your app
+- Optimised for use with node's domains
 - Uses [visionmedia's logger](https://github.com/visionmedia/log.js) to print POSIX error codes to STDOUT that will be picked up by [logwatch](http://linux.die.net/man/8/logwatch)
 
 
