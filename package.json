@@ -1,6 +1,6 @@
 {
   "name": "exit-strategy",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "license": "BSD",
   "description": "handle uncaught exceptions with node's domains",
   "tags": [
