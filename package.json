@@ -1,6 +1,7 @@
 {
   "name": "exit-strategy",
-  "version": "0.1.2",
+  "version": "0.1.3",
+  "license": "BSD",
   "description": "handle uncaught exceptions with node's domains",
   "tags": [
     "domains",
@@ -24,10 +25,9 @@
   "scripts": {
     "test": "tap ./test"
   },
-  "license": "BSD",
   "dependencies": {
     "underscore": ">=1.4",
-    "log-errors": ">=3.4.1",
+    "log-errors": "~4.0.1",
     "log": ">=1.4.0"
   },
   "devDependencies": {
